@@ -70,3 +70,16 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Protected community material
+[Aa]ssets/Audio/
+[Aa]ssets/Art/*
+![Aa]ssets/Art/STTArt/
+[Aa]ssets/ScriptableObjects/Items/
+[Aa]ssets/ScriptableObjects/Scenarios/
+[Aa]ssets/Prefabs/*
+![Aa]ssets/Prefabs/UI_Prefabs/
+![Aa]ssets/Prefabs/TableItems/
+Library/
+UserSettings/obj/
+

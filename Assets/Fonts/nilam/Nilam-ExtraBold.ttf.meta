@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dee030ed98afe42da943fbe6d67bc045
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Nilam
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 78182a1a23b8046d189156a915f09c55, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

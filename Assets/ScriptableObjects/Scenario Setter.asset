@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2376550a81076410c90fc00e2d165962, type: 3}
+  m_Name: Scenario Setter
+  m_EditorClassIdentifier: 
+  scenarios:
+  - {fileID: 11400000, guid: a966625e325ff464fb11f1e87e21aae7, type: 2}
+  - {fileID: 11400000, guid: 8713c96a92f714a72b783dc5e48232b8, type: 2}
+  - {fileID: 11400000, guid: dac6715063e0a4d2f8b3422753b67984, type: 2}
+  - {fileID: 11400000, guid: 7cc4d61821cfa4809b03e3e30b599dfc, type: 2}
+  - {fileID: 11400000, guid: e91d181afac084b5dbcf1626175e1837, type: 2}
+  - {fileID: 11400000, guid: b367661e0c20047de861f061be249ed2, type: 2}
+  - {fileID: 11400000, guid: 581110ebc4b6c41ecb36958b8803b46c, type: 2}
+  - {fileID: 11400000, guid: 038a3b46d8ddd42b0bda4f2818c6c823, type: 2}
+  - {fileID: 11400000, guid: f847429471abb4889be3ea1d159f467e, type: 2}
+  currentScenario: {fileID: 11400000, guid: f847429471abb4889be3ea1d159f467e, type: 2}
